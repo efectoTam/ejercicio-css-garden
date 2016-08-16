@@ -1,0 +1,118 @@
+body{
+	background-color: #FBF4A1;
+}
+
+h1{
+	font-family: Verdana;
+	font-size: 40px;
+	color:#0E8B0C;
+	border:2px solid #000000;
+	text-align: center;
+	background-color:#E9D5EC;
+	border-radius: 50px;
+}
+
+h2{
+	font-family: Verdana;
+	font-size: 20px;
+	color:#000000;
+	text-align: center;
+	background-color:#F1C0F9;
+	border:2px solid #0E8B0C;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.summary{
+	text-align: center;
+	font-family:Tahoma;
+}
+
+h3{
+	font-family: Verdana;
+	font-size: 20px;
+	color:#000000;
+	text-align: center;
+	background-color:#F1C0F9;
+	border:2px solid #0E8B0C;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.preamble{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+.explanation{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+.participation{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+.benefits{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+.requirements{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+footer{
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+.select{
+	text-align: left;
+}
+
+.design-selection h3{
+	border-radius: 0px;
+}
+
+.archives{
+	text-align: left;
+}
+
+.design-archives h3{
+	border-radius: 0px;
+}
+
+.resources{
+	text-align: left;	
+}
+
+.zen-resources h3{
+	border-radius: 0px;
+}
+
+.design-selection nav ul li{
+	text-align: right;
+	list-style-type:none;
+	font-size: 18px;
+}
+
+.design-archives nav ul li{
+	text-align: right;
+	list-style-type:none;
+	font-size: 18px;
+}
+
+.zen-resources ul li{
+	text-align: right;
+	list-style-type:none;
+	font-size: 18px;
+}
